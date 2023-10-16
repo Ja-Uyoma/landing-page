@@ -27,3 +27,7 @@ button, .action {
     font-weight: 800;
     color: #1f2937;
 }
+
+blockquote {
+    background-color: #e5e7eb;
+}
