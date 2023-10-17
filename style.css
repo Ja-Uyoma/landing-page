@@ -41,3 +41,8 @@ blockquote > p {
 footer > p, blockquote > p {
     text-align: center;
 }
+
+blockquote > cite {
+    font-style: normal;
+    font-weight: bold;
+}
