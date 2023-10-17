@@ -38,6 +38,6 @@ blockquote > p {
     color: #1f2937;
 }
 
-footer > p {
+footer > p, blockquote > p {
     text-align: center;
 }
