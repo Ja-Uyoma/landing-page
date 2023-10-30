@@ -10,6 +10,7 @@ header {
 
 header ul {
     display: flex;
+    gap: 1em;
 }
 
 header li {
