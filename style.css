@@ -4,6 +4,12 @@ header, footer, #two {
 
 header {
     display: flex;
+    align-items: stretch;
+    justify-content: space-between;
+}
+
+header ul {
+    display: flex;
 }
 
 header li {
