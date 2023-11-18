@@ -28,3 +28,21 @@
     font-size: 24px;
     color: #F9FAF8;
 }
+
+header.header {
+    display: flex;
+}
+
+.header h1,
+.header nav {
+    flex: 1;
+}
+
+.header ul {
+    display: flex;
+    list-style-type: none;
+}
+
+.header li {
+    padding: 0 1em;
+}
