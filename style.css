@@ -17,3 +17,9 @@
     font-weight: bolder;
     color: #F9FAF8;
 }
+
+.header li, 
+.main > p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
