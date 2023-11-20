@@ -46,3 +46,7 @@ header.header {
 .header li {
     padding: 0 1em;
 }
+
+.main > button {
+    background-color: #3882f6;
+}
