@@ -49,4 +49,6 @@ header.header {
 
 .main > button {
     background-color: #3882f6;
+    border-radius: .5em;
+    padding: .25em 1em;
 }
