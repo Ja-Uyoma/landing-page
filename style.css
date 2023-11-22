@@ -90,3 +90,25 @@ div.hero > aside > p {
     color: #E5E7EB;
     background-color: grey;
 }
+
+/* info */
+
+section.info {
+    padding: 0 3em;
+}
+
+section.info * + * {
+    margin-top: 0;
+}
+
+section.info > h2 {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+    text-align: center;
+}
+
+section.info > ul {
+    list-style-type: none;
+    display: flex;
+}
