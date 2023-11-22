@@ -175,3 +175,11 @@ section.cta button {
     border-color: white;
 }
 
+/* Footer */
+
+footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: #F9FAF8;
+    padding: 1em 2em;
+}
