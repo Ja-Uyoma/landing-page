@@ -112,3 +112,23 @@ section.info > ul {
     list-style-type: none;
     display: flex;
 }
+
+/* Quote */
+
+blockquote {
+    background-color: #E5E7EB;
+    padding: 2em 4em;
+}
+
+blockquote > p {
+    text-align: center;
+    font-style: italic;
+}
+
+blockquote > cite {
+    display: block;
+    font-style: normal;
+    font-weight: bold;
+    text-align: right;
+    margin-top: 0;
+}
