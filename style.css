@@ -123,6 +123,8 @@ blockquote {
 blockquote > p {
     text-align: center;
     font-style: italic;
+    font-size: 36px;
+    color: #1F2937;
 }
 
 blockquote > cite {
