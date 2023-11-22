@@ -75,6 +75,8 @@ div.hero > section > p {
 }
 
 div.hero > section > p > button {
+    font-size: 1rem;
+    font-weight: bold;
     display: block;
     background-color: #3882f6;
     color: #E5E7EB;
