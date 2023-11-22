@@ -38,6 +38,7 @@ header > nav {
 header ul {
     list-style-type: none;
     display: flex;
+    justify-content: end;
 }
 
 header li {
