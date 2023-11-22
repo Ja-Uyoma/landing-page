@@ -65,9 +65,11 @@ div.hero > section > h2 {
     font-size: 48px;
     font-weight: bolder;
     color: #F9FAF8;
+    margin-bottom: 0;
 }
 
 div.hero > section > p {
+    margin-top: 0;
     font-size: 18px;
     color: #E5E7EB;
 }
