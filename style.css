@@ -118,6 +118,7 @@ section.info > ul {
 blockquote {
     background-color: #E5E7EB;
     padding: 2em 4em;
+    margin: 2em 0;
 }
 
 blockquote > p {
