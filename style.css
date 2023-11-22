@@ -25,7 +25,7 @@ header * + * {
 }
 
 header > h1 {
-    font-size: 24px;
+    font-size: 1.5rem;
     color: #F9FAF8;
     flex: 1;
     padding: 0 2em;
@@ -41,7 +41,7 @@ header ul {
 }
 
 header li {
-    font-size: 18px;
+    font-size: 1.125rem;
     color: #E5E7EB;
     padding: 0 2em;
 }
@@ -63,7 +63,7 @@ div.hero > section {
 }
 
 div.hero > section > h2 {
-    font-size: 48px;
+    font-size: 3rem;
     font-weight: bolder;
     color: #F9FAF8;
     margin-bottom: 0;
@@ -71,7 +71,7 @@ div.hero > section > h2 {
 
 div.hero > section > p {
     margin-top: 0;
-    font-size: 18px;
+    font-size: 1.125rem;
     color: #E5E7EB;
 }
 
@@ -91,7 +91,7 @@ div.hero > aside {
 }
 
 div.hero > aside > p {
-    font-size: 18px;
+    font-size: 1.125rem;
     color: #E5E7EB;
     background-color: grey;
     text-align: center;
@@ -109,7 +109,7 @@ section.info * + * {
 }
 
 section.info > h2 {
-    font-size: 36px;
+    font-size: 2.25rem;
     font-weight: bolder;
     color: #1F2937;
     text-align: center;
@@ -132,7 +132,7 @@ blockquote {
 blockquote > p {
     text-align: center;
     font-style: italic;
-    font-size: 36px;
+    font-size: 2.25rem;
     color: #1F2937;
 }
 
@@ -164,7 +164,7 @@ section.cta > .prompt {
 
 section.cta h2 {
     color: #F9FAF8;
-    font-size: 24px;
+    font-size: 1.5rem;
     margin-bottom: 0;
 }
 
