@@ -93,6 +93,8 @@ div.hero > aside > p {
     font-size: 18px;
     color: #E5E7EB;
     background-color: grey;
+    text-align: center;
+    padding: 4em 2em;
 }
 
 /* info */
