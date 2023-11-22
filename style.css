@@ -119,6 +119,20 @@ section.info > ul {
     list-style-type: none;
     display: flex;
     gap: 1.5em;
+    justify-content: center;
+}
+
+section.info div {
+    border: thick solid #6CB4EE;
+    border-radius: 1em;
+    width: 125px;
+    height: 120px;
+}
+
+section.info figcaption {
+    margin-top: .5em;
+    padding-left: .3em;
+    color: #1F2937;
 }
 
 /* Quote */
