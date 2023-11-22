@@ -134,3 +134,44 @@ blockquote > cite {
     text-align: right;
     margin-top: 0;
 }
+
+/* Call to action */
+
+section.cta {
+    background-color: #3882f6;
+    border-radius: .5em;
+    display: flex;
+    margin: 4em 2em;
+    padding: 0 4em;
+}
+
+section.cta > .prompt {
+    flex: 1;
+}
+
+section.cta > .prompt {
+    justify-content: flex-start;
+}
+
+section.cta h2 {
+    color: #F9FAF8;
+    font-size: 24px;
+    margin-bottom: 0;
+}
+
+section.cta p {
+    margin-top: 0;
+    color: #E5E7EB;
+}
+
+section.cta > div.cta-btn {
+    justify-content: flex-end;
+}
+
+section.cta button {
+    border-radius: .5em;
+    color: #F9FAF8;
+    background-color: #3882f6;
+    border-color: white;
+}
+
