@@ -8,6 +8,11 @@
     box-sizing: inherit;
 }
 
+body * + * {
+    margin-top: 1.5em;
+}
+
+header,
 .hero {
     background-color: #1F2937;
 }
