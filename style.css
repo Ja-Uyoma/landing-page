@@ -54,6 +54,7 @@ main {
 div.hero {
     display: flex;
     background-color: #1F2937;
+    padding: 0 3em;
 }
 
 div.hero > section {
