@@ -44,3 +44,48 @@ header li {
     color: #E5E7EB;
     padding: 0 2em;
 }
+
+/* Hero */
+
+main {
+    margin-top: 0;
+}
+
+div.hero {
+    display: flex;
+    background-color: #1F2937;
+}
+
+div.hero > section {
+    flex: 1;
+}
+
+div.hero > section > h2 {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
+div.hero > section > p {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+div.hero > section > p > button {
+    display: block;
+    background-color: #3882f6;
+    color: #E5E7EB;
+    border-radius: 0.5em;
+    padding: 0.25em 1.75em;
+    margin-top: .5em;
+}
+
+div.hero > aside {
+    flex: 1;
+}
+
+div.hero > aside > p {
+    font-size: 18px;
+    color: #E5E7EB;
+    background-color: grey;
+}
