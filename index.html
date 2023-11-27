@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="./style.css">
     <title>Landing Page</title>
 </head>
-<body>
+<body onload="update()">
     <header class="header">
         <h1>Header Logo</h1>
         <nav>
@@ -90,7 +90,13 @@
     </main>
 
     <footer class="footer">
-        <p>Copyright &#169; The Odin Project 2021</p>
+        <p>Copyright &#169; The Odin Project <span id="year"></span></p>
     </footer>
 </body>
+<script>
+    function update(){
+        let year=new Date().getFullYear();
+        document.getElementById("year").innerHTML=year;
+    }
+</script>
 </html>
