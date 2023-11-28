@@ -90,13 +90,13 @@
     </main>
 
     <footer class="footer">
-        <p>Copyright &#169; The Odin Project <span id="year"></span></p>
+        <p>Copyright &#169; The Odin Project <span class="year"></span></p>
     </footer>
 </body>
 <script>
-    function update(){
-        let year=new Date().getFullYear();
-        document.getElementById("year").innerHTML=year;
+    function update() {
+        let currentYear = new Date().getFullYear();
+        document.querySelector(".year").textContent = currentYear;
     }
 </script>
 </html>
