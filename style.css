@@ -171,9 +171,6 @@ section.cta {
 
 section.cta > .prompt {
     flex: 1;
-}
-
-section.cta > .prompt {
     justify-content: flex-start;
 }
 
